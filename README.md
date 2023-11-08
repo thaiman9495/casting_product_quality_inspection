@@ -4,4 +4,5 @@ Removing defective products required casting industry to have its quality inspec
 - Transfer learning based on Xception model
 
 # Dataset
-- Link text Here](https://link-url-here.org)
+- [Casting product image data for quality inspection from Kaggle](https://www.kaggle.com/datasets/ravirajsinh45/real-life-industrial-dataset-of-casting-product)
+- Put the dataset into "data" folder
